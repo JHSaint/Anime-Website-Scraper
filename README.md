@@ -8,4 +8,7 @@ Instructions to run:
 	pip install 
 		bs4 
 		requests
-	python <nameoffile.py>
+		OR
+		pip freeze > requirements.txt
+
+	python AnimeCompetitionWebScraper.py
